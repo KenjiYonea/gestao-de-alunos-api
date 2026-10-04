@@ -1,0 +1,14 @@
+[
+    {
+        "testTitle": "Deve entregar trabalho de automação de API",
+        "titulo": "Trabalho de Automacao de API",
+        "descricao": "Atividade prática de automação de testes de API.",
+        "statusEsperado": 201
+    },
+    {
+        "testTitle": "Deve entregar trabalho de testes de software",
+        "titulo": "Trabalho de Testes de Software",
+        "descricao": "Atividade prática sobre qualidade e testes de software.",
+        "statusEsperado": 201
+    }
+]
